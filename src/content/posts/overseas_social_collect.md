@@ -2,8 +2,8 @@
 title: 某社交平台数据采集实现及优化历程
 published: 2025-04-24
 description: ''
-tags: [Spider, Nodejs]
-category: DataCollect
+tags: [爬虫, Nodejs]
+category: 数据收集
 draft: false
 ---
 # 项目背景
